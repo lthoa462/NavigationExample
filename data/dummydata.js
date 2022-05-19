@@ -30,7 +30,21 @@ const DATA = [
     },
     {
         id: "5",
-        title: "Vỹ Hồng Xương",
+        title: "Vũ Hồng Xương",
+        image: UserImage, 
+        birth: "09/09/2000",
+        gend: "Female", 
+    },
+    {
+        id: "6",
+        title: "Nguyễn Thị Phương Thảo",
+        image: UserImage, 
+        birth: "09/09/2000",
+        gend: "Female", 
+    },
+    {
+        id: "7",
+        title: "Một con mèo béo",
         image: UserImage, 
         birth: "09/09/2000",
         gend: "Female", 
